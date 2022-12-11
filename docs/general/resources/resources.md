@@ -2258,7 +2258,12 @@ This page is a list of all the player resources in the scenario editor and their
 
 - ID: 267
 
-- Purpose: Unused
+- Purpose: Foragers wood generation rate per 100 seconds 
+
+- Default Values:
+
+    - Default: 0 
+    - Portuguese: 10.4753  
 
 ## 268. Unused Resource 268
 
